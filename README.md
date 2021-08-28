@@ -1,6 +1,6 @@
 ## Projet Blink_idf
 
-**PlatformIO (extension dans VS Code)**
+Projet à intégrer dans PlatformIO (extension dans VS Code)
 
 Programme en langage C.
 
