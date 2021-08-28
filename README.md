@@ -13,4 +13,4 @@ Affichage d'Hello World dans le moniteur série et clignotement de la LED bleue 
 
 ![image](https://user-images.githubusercontent.com/44494044/131227633-030858a1-daf3-4855-9517-3e5d42a1ed27.png)
 
-*monitor_speed = 115200* peut être ajouté à la main dans la fichier platform.ini.
+*monitor_speed = 115200* peut être ajouté à la main dans la fichier platformio.ini.
