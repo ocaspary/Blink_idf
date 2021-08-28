@@ -17,7 +17,8 @@ Affichage d'Hello World dans le moniteur série et clignotement de la LED bleue 
 
 L'option *monitor_speed = 115200* peut être ajoutée à la main dans le fichier platformio.ini si elle n'a pas été définie lors de la création du projet.
 
-**Platformio.ini : **
+
+** Platformio.ini :**
 
 ![image](https://user-images.githubusercontent.com/44494044/131227846-5ba6e002-d5cc-4edc-b426-2daec7a958f7.png)
 
