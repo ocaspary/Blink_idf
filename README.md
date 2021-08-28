@@ -24,11 +24,11 @@ L'option *monitor_speed = 115200* peut être ajoutée à la main dans le fichier
 
 **Cloner le projet**
 
-Ouvrez PIO Home -> Clone Git Project
+PIO Home -> Clone Git Project (pour obtenir le champ de saisie suivant en haut de la fenêtre) :
 
 ![image](https://user-images.githubusercontent.com/44494044/131229949-8a67e6da-9903-46fd-8846-f2b82a28f332.png)
 
-Entreez l'URL du projet : https://github.com/ocaspary/Blink_idf
+Entrez l'URL du projet : https://github.com/ocaspary/Blink_idf
 
 Sélectionnez le répertoire dans lequel sera cloné le projet Blink_idf, en général : Documents>PlatformIO>Projects.
 
