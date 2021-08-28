@@ -30,5 +30,5 @@ PIO Home -> Clone Git Project (pour obtenir le champ de saisie suivant en haut d
 
 Entrez l'URL du projet : https://github.com/ocaspary/Blink_idf
 
-Sélectionnez le répertoire dans lequel sera cloné le projet Blink_idf, en général : Documents>PlatformIO>Projects.
+Sélectionnez le répertoire dans lequel il sera cloné, en général : Documents>PlatformIO>Projects.
 
