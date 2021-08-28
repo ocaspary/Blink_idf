@@ -32,7 +32,8 @@ Entrez l'URL du projet : https://github.com/ocaspary/Blink_idf
 
 Sélectionnez le répertoire dans lequel il sera cloné, en général : Documents > PlatformIO > Projects.
 
-Puis Upload pour compiler et téléverser le programme :
+Puis Upload pour compiler et téléverser le programme, en cliquant sur la flèche du menu (en bas de la fenêtre) :
 
-![image](https://user-images.githubusercontent.com/44494044/131230246-a4bf9995-14ad-4f53-b664-48712d1d7b68.png)
+![image](https://user-images.githubusercontent.com/44494044/131230283-e31787dc-6832-4aa6-82b9-b77eddc13e18.png)
+
 
