@@ -7,7 +7,7 @@ Le programme *main.c* est écrit uniquement en langage C : plus besoin d'inclure
 ![image](https://user-images.githubusercontent.com/44494044/131227924-e424af5d-355e-4490-bf4c-9c22d487667d.png)
 
 
-Exécution de 2 tâches (hello_task et blinky) sur un microcontrôleur ESP32 NodeMCU version 30 broches avec le framework espidf.
+Exécution de 2 tâches (hello_task et blinky) sur un microcontrôleur ESP32 NodeMCU avec le framework espidf.
 
 Affichage d'Hello World dans le moniteur série et clignotement de la LED bleue intégrée au microcontrôleur.
 
