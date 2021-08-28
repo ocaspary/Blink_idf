@@ -4,7 +4,7 @@ Projet à intégrer dans PlatformIO (extension dans VS Code).
 
 Le programme *main.c* est écrit uniquement en langage C : plus besoin d'inclure arduino.h.
 
-![image](https://user-images.githubusercontent.com/44494044/131227924-e424af5d-355e-4490-bf4c-9c22d487667d.png)
+![image](https://user-images.githubusercontent.com/44494044/131230429-904f7c90-a9e1-443c-88d6-fd75c4e99875.png)
 
 
 Exécution de 2 tâches (hello_task et blinky) sur un microcontrôleur ESP32 NodeMCU avec le framework espidf.
@@ -36,7 +36,7 @@ Puis Upload pour compiler et téléverser le programme, en cliquant sur la flèc
 
 ![image](https://user-images.githubusercontent.com/44494044/131230283-e31787dc-6832-4aa6-82b9-b77eddc13e18.png)
 
-Ouvrez le Terminal en cliquant sur l'icône "prise" du menu  pour afficher *Hello World!*.
+Ouvrez le Terminal en cliquant sur l'icône "prise" du menu  pour afficher *Hello World!*
 
 Remarque : la détection du port USB sur lequel est branché l'ESP32 est automatique. Vous pouvez le connaître avec PIO Home -> Devices :
 
