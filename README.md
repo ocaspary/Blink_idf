@@ -44,7 +44,7 @@ L'affichage est le suivant (en plus du clignotement de la led bleue sur l'ESP32)
 
 ![image](https://user-images.githubusercontent.com/44494044/131230591-98daff29-eccb-4e35-a0b2-66a6885fb1f5.png)
 
-Pour fermer le Terminal : cliquez sur la fenêtre Terminal puis CTRL+C.
+Pour fermer le Terminal : cliquez dans la fenêtre Terminal puis CTRL+C.
 
 Remarque : la détection du port USB sur lequel est branché l'ESP32 est automatique. Vous pouvez le connaître avec PIO Home -> Devices :
 
