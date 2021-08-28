@@ -36,4 +36,9 @@ Puis Upload pour compiler et téléverser le programme, en cliquant sur la flèc
 
 ![image](https://user-images.githubusercontent.com/44494044/131230283-e31787dc-6832-4aa6-82b9-b77eddc13e18.png)
 
+Ouvrez le Terminal en cliquant sur l'icône "prise" du menu  pour afficher *Hello World!*.
+
+Remarque : la détection du port USB sur lequel est branché l'ESP32 est automatique. Vous pouvez le connaître avec PIO Home -> Devices :
+
+![image](https://user-images.githubusercontent.com/44494044/131230390-c58fbc0b-05f0-4fdf-9576-06bff2af0f05.png)
 
