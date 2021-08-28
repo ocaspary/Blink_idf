@@ -1,9 +1,4 @@
 {
-	"folders": [
-		{
-			"name": "Blink_idf",
-			"path": ".."
-		}
-	],
+	"folders": [],
 	"settings": {}
 }
