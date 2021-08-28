@@ -1,6 +1,8 @@
-## Projet Blink_idf
+## Projet *Blink_idf*
 
 Projet à intégrer dans PlatformIO (extension dans VS Code).
+
+![image](https://user-images.githubusercontent.com/44494044/131227814-46cd06f2-98c8-4b11-be6a-d62d68db73c9.png)
 
 Le programme *main.c* est écrit uniquement en langage C : plus besoin d'inclure arduino.h.
 
